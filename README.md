@@ -8,7 +8,6 @@ Welcome to the Tic-Tac-Toe game repository! This project is a simple implementat
 - [Features](#features)
 - [Installation](#installation)
 - [How to Play](#how-to-play)
-- [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
@@ -49,14 +48,6 @@ To play the game, follow these steps:
 5. The computer will automatically make its move.
 6. The game checks for a winner after each move.
 7. The game ends when a player wins or when there are no more moves left, resulting in a draw.
-
-## Project Structure
-
-Tic-Tac-Toe/
-├── index.html # Main HTML file for the game
-├── style.css # CSS for styling the game
-├── script.js # JavaScript file for game logic
-└── README.md # Project documentation
 
 ## Contributing
 
